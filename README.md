@@ -63,10 +63,6 @@ All hits are saved to found_keys.txt.
 
 🛠 Dependencies
 Install via pip:
-
-bash
-Kopiuj
-Edytuj
 pip install -r requirements.txt
 requirements.txt
 ecdsa
