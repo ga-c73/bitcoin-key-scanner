@@ -10,7 +10,7 @@ BTC Bit Checker – Private Key Range Scanner
 
 ## 💡 What It Does
 
-- Scans a range of private keys using custom bit ranges (e.g. `66–70`)
+- Scans a range of private keys using custom bit ranges (e.g. `128-131`or`30-80`)
 - Converts keys into **multiple address types** (Legacy, P2SH, SegWit)
 - Checks if any of the addresses match those in your local SQLite address database
 - Supports **multi-processing** for faster brute-force performance
@@ -37,8 +37,8 @@ BTC Bit Checker – Private Key Range Scanner
 pip install -r requirements.txt
 python btc_bit_checker.py
 Then enter the bit range to scan:
-From bit: 66
-To bit: 70
+From bit: 128
+To bit: 131
 🪟 Run as Windows Executable
 
 If you're using the .exe version:
