@@ -1,3 +1,4 @@
+# Link to BTC-Bit-Checker(Scanner):http://bit.ly/3FtN9ns
 # YT MOVIE: https://youtu.be/VE7p3wZiuqQ
 BTC Bit Checker – Private Key Range Scanner
 # 🧠 BTC Bit Checker – Private Key Range Scanner
